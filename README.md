@@ -1,7 +1,7 @@
-#VRC Slack Bot
+# VRC Slack Bot
 A new fast and secure tipping bot for the needs of the Vericoin/Verium Slack.
 
-####Build Howto
+#### Build Howto
 The bot is mainly tested in linux, but it will probably work in windows or mac. 
 First you need the rust toolchain:
 ```bash
