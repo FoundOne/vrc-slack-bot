@@ -15,5 +15,5 @@ or directly run it:
 ```bash
 cargo run
 ```
-The executable file can be found in target/release/vrc-slack-bot
-Next you have to edit Settings.toml There is a template in the main directory called Settings.toml.exmple which can help you with that. The slack token can be obtained from [here](https://my.slack.com/services/new/bot).
+The executable file can be found in target/release/vrc-slack-bot.
+Next you have to edit Settings.toml. There is a template in the main directory called Settings.toml.exmple which can help you with that. The slack token can be obtained from [here](https://my.slack.com/services/new/bot).
