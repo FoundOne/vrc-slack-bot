@@ -1,0 +1,6 @@
+user = 'user'
+pass = 'pass'
+port = '58683'
+timeout = '30000'
+token = 'xoxo-xxxxxxxxxxxxxxx-xxxxxxxxxxxxxxxxx'
+tipping_channel = 'tipping'

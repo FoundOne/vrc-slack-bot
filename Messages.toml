@@ -1,0 +1,7 @@
+help = '''=====Commands=====
+help                                Prints this message.
+balance                             Shows how much money you have.
+tip/give @[handle] [amount] VRC     Gives [amount] VRC from your wallet to @[handle]
+'''
+balance = "<@{{sender}}> you have {{amount}}VRC"
+tip = "<@{{sender}}> tipped <@{{user}}> {{amount}}VRC"

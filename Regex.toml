@@ -1,0 +1,7 @@
+help = '(?i)(^|\s)help\s*$'
+balance = '(?i)(^|\s)balance\s*$'
+tip = '''(?xi)
+    (^|\s)(?:tip|give)\s+
+    <@(?P<user>[^>]+)>\s+
+    (?P<amount>\d+(?:\.\d+)?)\s*
+    (?:vrc)'''

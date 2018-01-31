@@ -1,0 +1,13 @@
+[package]
+name = "vrc-slack-bot"
+version = "0.1.0"
+authors = ["Nayden Pendov <darkey@protonmail.com>"]
+
+[dependencies]
+config = "^0.7"
+log = "^0.3"
+env_logger = "^0.3"
+slack = "^0.19"
+regex = "^0.2"
+lazy_static = "^1.0"
+mustache = "*"
